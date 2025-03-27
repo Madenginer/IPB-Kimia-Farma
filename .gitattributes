@@ -1,0 +1,1 @@
+kimia-farma-bigquery/data/kf_inventory.csv filter=lfs diff=lfs merge=lfs -text
