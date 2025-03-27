@@ -1,0 +1,3 @@
+-- Import dataset ke BigQuery
+-- Perintah ini tergantung pada interface yang digunakan (bisa via UI atau CLI)
+-- Pastikan untuk mengganti 'path_to_your_file.csv' dengan path file CSV yang sesuai
